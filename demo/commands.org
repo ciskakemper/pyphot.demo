@@ -1,0 +1,5 @@
+
+
+jupyter notebook&
+
+pip show pyphot
